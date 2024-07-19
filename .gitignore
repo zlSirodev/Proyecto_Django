@@ -1,0 +1,8 @@
+*.pyc
+.DS_Store
+db.sqlite3
+node_modules/
+venv/
+*/migrations/*
+!*/migrations/__init__.py
+0001_initial.py
